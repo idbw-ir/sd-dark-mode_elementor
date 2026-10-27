@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: دارک مود المنتور پیشرفته
- * Plugin URI: https://hosseinam.ir/sd-dark-mode
+ * Plugin URI: https://github.com/idbw-ir/sd-dark-mode_elementor
  * Description: افزودن قابلیت دارک مود و لایت مود سراسری و ویجتی به وردپرس و المنتور با پنل تنظیمات اختصاصی.
  * Version: 1.0.1
- * Author: Hossein Azimy Birjandy
+ * Author: حسین عظیمی بیرجندی
  * Text Domain: sd-dark-mode
  * Domain Path: /languages
  * Requires at least: 5.8
