@@ -50,7 +50,7 @@ add_filter( 'plugin_action_links_' . SD_DM_BASENAME, function( $links ) {
 add_filter( 'plugin_row_meta', function( $links, $file ) {
     if ( $file === SD_DM_BASENAME ) {
         $new_links = array(
-            '<a href="' . admin_url( 'options-general.php?page=sd-dark-mode' ) . '">' . __( 'تنظیمات', 'sd-dark-mode' ) . '</a>',
+            '<a href="https://github.com/idbw-ir/sd-dark-mode_elementor">' . __( 'مستندات افزونه', 'sd-dark-mode' ) . '</a>',
         );
         $links = array_merge( $links, $new_links );
     }
