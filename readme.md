@@ -1,4 +1,4 @@
-```markdown
+
 # 🌙 دارک مود المنتور پیشرفته (SD Dark Mode)
 
 [![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://wordpress.org/plugins/sd-dark-mode/)
